@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/ELHAMMOURIWISSAL/Agile%20Project%20Management/_apis/build/status/WissalHAMMOURI.ContosoAir?branchName=azure-pipelines)](https://dev.azure.com/ELHAMMOURIWISSAL/Agile%20Project%20Management/_build/latest?definitionId=5&branchName=azure-pipelines)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
